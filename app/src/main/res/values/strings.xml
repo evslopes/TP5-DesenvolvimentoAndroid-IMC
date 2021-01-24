@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">IMC_TP5</string>
+    <string name="imcTitulo">Índice de massa corporal (IMC)</string>
+    <string name="imcSubTitulo">Uma medida de gordura corporal em adultos</string>
+    <string name="lblPeso">Peso</string>
+    <string name="lblAltura">Altura</string>
+    <string name="lblIMC">IMC</string>
+    <string name="lblKg">kg</string>
+    <string name="lblCm">cm</string>
+    <string name="lblButton">CALCULAR</string>
+    <string name="lblResultado">--.-</string>
+    <string name="lblGrau">grau de obesidade</string>
 </resources>
