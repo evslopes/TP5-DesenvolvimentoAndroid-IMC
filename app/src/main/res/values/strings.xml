@@ -6,7 +6,7 @@
     <string name="lblAltura">Altura</string>
     <string name="lblIMC">IMC</string>
     <string name="lblKg">kg</string>
-    <string name="lblCm">cm</string>
+    <string name="lblCm">m</string>
     <string name="lblButton">CALCULAR</string>
     <string name="lblResultado">--.-</string>
     <string name="lblGrau">grau de obesidade</string>
